@@ -1,6 +1,6 @@
 # Sitio Colaborativo
 
-**Proyecto colaborativo para practicar Git y GitHub en equipo.**
+**Proyecto colaborativo para practicar Git y GitHub en equipo. Es un trabajo en el marco de la Tecnología En Desarrollo de Software, Universidad Konrad Lorenz**
 
 ---
 

@@ -8,8 +8,8 @@
 
 - **Líder del proyecto:** Juan (Moncurain)
 - **Colaboradores:**
-  - Nombre 1 (usuario1)
-  - Nombre 2 (usuario2)
+  - 
+  - 
 
 ---
 

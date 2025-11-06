@@ -6,7 +6,7 @@
 
 ## 🧑‍🤝‍🧑 Equipo
 
-- **Líder del proyecto:** Juan (Moncurain)
+- **Líder del proyecto:** Juan Sánchez P
 - **Colaboradores:**
   - 
   - 

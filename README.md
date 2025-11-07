@@ -8,8 +8,8 @@
 
 - **Líder del proyecto:** Juan Sánchez P
 - **Colaboradores:**
-  - Juan Carlos Murillo
-  - 
+  - Edwin Trujillo
+  - Omar Cardozo
 
 ---
 
